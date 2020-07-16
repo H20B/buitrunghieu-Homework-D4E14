@@ -1,0 +1,30 @@
+1/ - What is Boolean:
+     Boolean là kiểu dữ liệu có một trong 2 giá trị đúng( True) hoặc sai( False).
+    
+   - Write down 3 different expression that results a Boolean type:
+    1 == 1
+>> True
+    1 == 2
+>>False
+    a = ' h '
+    b = ' i '
+    a + b = ' hi '
+>> True
+
+2/ -What is a flow chart?webbrowser.open(“https://www.youtube.com/watch?v=04854XqcfCY”)
+     A flow chart là biểu đồ luồng dùng để thể hiện một quy trình hay sơ đồ của một thuật toán. Mỗi bước trong quy trình được
+    thể hiện bằng một biểu tượng khác nhau và chứa một mô tả ngắn về bước quy trình. Các ký hiệu biểu đồ luồng được liên kết
+    với nhau bằng các mũi tên hiển thị hướng dòng quy trình.
+
+3/ -What is nested conditionals?
+     Câu điều kiện lồng nhau là khi ta sử dụng câu lệnh if bên trong một câu lệnh if khác
+  Ví dụ:
+
+   if  a < b :
+   	print('xxx')
+   else:
+   	if a > b:
+        		print('yyy')
+
+     	else:
+                 		print('zzz')
